@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Java SDK from v8.26.0 to v8.41.0 ([#3](https://github.com/eaze/sentry-dotnet/pull/3))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8410)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.26.0...8.41.0)
+
 ## 6.0.0-rc.2
 
 ### Features
