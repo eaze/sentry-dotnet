@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Cocoa SDK from v8.57.3 to v9.13.0 ([#4](https://github.com/eaze/sentry-dotnet/pull/4))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#9130)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.57.3...9.13.0)
+
 ## 6.0.0-rc.2
 
 ### Features
