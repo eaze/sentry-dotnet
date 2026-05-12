@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump CLI from v2.58.2 to v3.4.2 ([#2](https://github.com/eaze/sentry-dotnet/pull/2))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#342)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/2.58.2...3.4.2)
+
 ## 6.0.0-rc.2
 
 ### Features
