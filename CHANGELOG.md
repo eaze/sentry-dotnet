@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Native SDK from v0.12.1 to v0.14.1 ([#5](https://github.com/eaze/sentry-dotnet/pull/5))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0141)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.12.1...0.14.1)
+
 ## 6.0.0-rc.2
 
 ### Features
